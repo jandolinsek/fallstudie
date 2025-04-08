@@ -1,0 +1,25 @@
+sample-id	horse	type	tooth	tooth location	replicate	gender	age	disease state	DIN	Concentration 	Sample_or_Control
+#q2:types	categorical	categorical	categorical	categorical	categorical	categorical	numeric	categorical	numeric	numeric	categorical
+KP1	Kommi	Plaque	1UL	upper jaw left	1	W	10	healthy	7.6	63420	experimental
+KP2	Kommi	Plaque	2UR	upper jaw rigth	2	W	10	healthy	6.7	64301	experimental
+KP3	Kommi	Plaque	3BR	bottom jaw right	3	W	10	healthy	6.8	59816	experimental
+KP4	Kommi	Plaque	1UR	up right	4	W	10	healthy	7.1	57701	experimental
+KP5	Kommi	Plaque	2UL	up left	5	W	10	healthy	7.1	74346	experimental
+KP6	Kommi	Plaque	3UL	up left	6	W	10	healthy	7	68343	experimental
+KF1	Kommi	Gum	1UL	upper jaw left	1	W	10	healthy	7.6	58106	experimental
+TP1	Threnna	Plaque	1UL	upper jaw left	1	S	24	onset	7.1	65675	experimental
+TP2	Threnna	Plaque	2UR	upper jaw rigth	2	S	24	onset	7	59767	experimental
+TP3	Threnna	Plaque	3BL	bottom jaw right	3	S	24	onset	7.5	70266	experimental
+TF1	Threnna	Gum	1UL	upper jaw left	1	S	24	onset	6.9	74620	experimental
+TF2	Threnna	Gum	2UR	upper jaw right	2	S	24	onset	7.3	69194	experimental
+EP1	Eydis	Plaque	1UL	uppper jaw left	1	S	16	diseased	6.7	62950	experimental
+EP2	Eydis	Plaque	2UR	upper jaw right	2	S	16	diseased	7.5	70408	experimental
+EP3	Eydis	Plaque	3UR	upper jaw right	3	S	16	diseased	6.8	59581	experimental
+EP4	Eydis	Plaque	1UL	up left	4	S	16	diseased	6.7	63589	experimental
+EP5	Eydis	Plaque	1UL	up left	5	S	16	diseased	6.8	76552	experimental
+EF1	Eydis	Gum	1UL	uppper jaw left	1	S	16	diseased	6.9	72278	experimental
+EF2	Eydis	Gum	2UR	upper jaw right	2	S	16	diseased	7.4	78211	experimental
+EF3	Eydis	Gum	3UR	upper jaw right	3	S	16	diseased	7.4	66507	experimental
+EF4	Eydis	Gum	1UL	up left	4	S	16	diseased	6.3	79184	experimental
+PK	E. coli	-	-	-	-	-		-	8.4	4012	experimental
+NK	H2O	-	-	-	-	-		-		55046	control

@@ -1,0 +1,23 @@
+sample-id	horse	type	tooth	location	replicate	gender	age	disease	DIN						
+#q2:types	categorical	categorical	categorical	categorical	categorical	categorical	numeric	categorical	categorical							
+KP1	Kommi	Plaque	1UL	upper jaw left	1	W	10	healthy	7.6						
+KP2	Kommi	Plaque	2UR	upper jaw rigth	2	W	10	healthy	6.7						
+KP3	Kommi	Plaque	3BR	bottom jaw right	3	W	10	healthy	6.8						
+KP4	Kommi	Plaque	1UR	up right	4	W	10	healthy	7.1						
+KP5	Kommi	Plaque	2UL	up left	5	W	10	healthy	7.1						
+KP6	Kommi	Plaque	3UL	up left	6	W	10	healthy	7						
+KF1	Kommi	Gum	1UL	upper jaw left	1	W	10	healthy	7.6						
+TP1	Threnna	Plaque	1UL	upper jaw left	1	S	24	onset	7.1						
+TP2	Threnna	Plaque	2UR	upper jaw rigth	2	S	24	onset	7						
+TP3	Threnna	Plaque	3BL	bottom jaw right	3	S	24	onset	7.5						
+TF1	Threnna	Gum	1UL	upper jaw left	1	S	24	onset	6.9						
+TF2	Threnna	Gum	2UR	upper jaw right	2	S	24	onset	7.3						
+EP1	Eydis	Plaque	1UL	uppper jaw left	1	S	16	diseased	6.7						
+EP2	Eydis	Plaque	2UR	upper jaw right	2	S	16	diseased	7.5						
+EP3	Eydis	Plaque	3UR	upper jaw right	3	S	16	diseased	6.8						
+EP4	Eydis	Plaque	1UL	up left	4	S	16	diseased	6.7						
+EP5	Eydis	Plaque	1UL	up left	5	S	16	diseased	6.8						
+EF1	Eydis	Gum	1UL	uppper jaw left	1	S	16	diseased	6.9						
+EF2	Eydis	Gum	2UR	upper jaw right	2	S	16	diseased	7.4						
+EF3	Eydis	Gum	3UR	upper jaw right	3	S	16	diseased	7.4						
+EF4	Eydis	Gum	1UL	up left	4	S	16	diseased	6.3
